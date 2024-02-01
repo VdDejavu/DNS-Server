@@ -1,0 +1,36 @@
+DoH servers
+
+Cloudflare
+https://cloudflare-dns.com/dns-query
+Google
+https://dns.google/dns-query
+Quad9
+https://dns.quad9.net/dns-query
+CleanBrowsing (Family Filter)
+https://doh.cleanbrowsing.org/doh/family-filter/
+AdGuard
+https://dns.adguard.com/dns-query
+AdGuard Family
+https://dns-family.adguard.com/dns-query
+OpenDNS
+https://doh.opendns.com/dns-query
+AliDNS
+https://dns.alidns.com/dns-query
+DNS.SB
+https://doh.dns.sb/dns-query
+Neustar
+https://doh.neustar.biz/dns-query
+Yandex
+https://dns.yandex.com/dns-query
+CIRA Canadian Shield
+https://doh.cleanbrowsing.org/doh/cira
+BlahDNS
+https://doh.blahdns.com/dns-query
+UncensoredDNS
+https://doh.uncensoreddns.org/dns-query
+LibreDNS
+https://doh.libredns.gr/dns-query
+Digitale Gesellschaft
+https://dns.digitale-gesellschaft.ch/dns-query
+DNSPod
+https://doh.pub/dns-query
